@@ -1,0 +1,1138 @@
+[
+  {
+    "id": "office-of-governor",
+    "name": "Office of the Governor",
+    "nameKiswahili": "Ofisi ya Gavana",
+    "icon": "ShieldAlert",
+    "cecm": "H.E. Dr. Paul Nyongesa Otuoma",
+    "cecmLabel": "Governor (Gavana)",
+    "chiefOfficer": "Hon. Arthur Papa Odera",
+    "chiefOfficerLabel": "Deputy Governor (Naibu Gavana)",
+    "phone": "+254 792 123 456",
+    "email": "governor@busiacounty.go.ke",
+    "mandate": [
+      "Providing vision, leadership, and direction for the socio-economic development of Busia County.",
+      "Ensuring implementation of county and national legislation within the county.",
+      "Promoting citizen participation, democratic governance, and community empowerment.",
+      "Coordinating and managing county public service and county executive committee operations."
+    ],
+    "services": [
+      "Executive Petitions & Memorandum Submission",
+      "County Coordination & Devolution Enquiries",
+      "Public Record Inspections & Legal Enquiries",
+      "County Gazette Subscriptions & Notices"
+    ],
+    "forms": [
+      {
+        "name": "Citizen Memo Submission Form",
+        "file": "citizen_memo_template.pdf",
+        "date": "2026-04-10",
+        "type": "PDF (1.2 MB)"
+      },
+      {
+        "name": "State of the County Address 2026",
+        "file": "state_of_county_2026.pdf",
+        "date": "2026-05-15",
+        "type": "PDF (4.5 MB)"
+      }
+    ],
+    "staff": [
+      {
+        "position": "County Executive Committee Member (Governor)",
+        "name": "H.E. Dr. Paul Nyongesa Otuoma",
+        "email": "governor@busiacounty.go.ke",
+        "phone": "+254 792 111 001",
+        "level": "CECM"
+      },
+      {
+        "position": "Deputy Governor",
+        "name": "H.E. Arthur Papa Odera",
+        "email": "deputygovernor@busiacounty.go.ke",
+        "phone": "+254 792 111 002",
+        "level": "Deputy Governor"
+      },
+      {
+        "position": "County Secretary",
+        "name": "Oscar B. Oduny",
+        "email": "countysecretary@busiacounty.go.ke",
+        "phone": "+254 792 111 003",
+        "level": "County Secretary"
+      },
+      {
+        "position": "Chief of Staff",
+        "name": "Vincent Mutanda",
+        "email": "chiefofstaff@busiacounty.go.ke",
+        "phone": "+254 792 111 004",
+        "level": "Chief of Staff"
+      },
+      {
+        "position": "Director of Communications",
+        "name": "Winston Sande",
+        "email": "w.sande@busiacounty.go.ke",
+        "phone": "+254 792 111 005",
+        "level": "Director"
+      },
+      {
+        "position": "Deputy Director - Public Relations",
+        "name": "Amina Nakhanu",
+        "email": "a.nakhanu@busiacounty.go.ke",
+        "phone": "+254 792 111 006",
+        "level": "Deputy Director"
+      },
+      {
+        "position": "Assistant Director - Intergovernmental Relations",
+        "name": "George Juma",
+        "email": "g.juma@busiacounty.go.ke",
+        "phone": "+254 792 111 007",
+        "level": "Assistant Director"
+      },
+      {
+        "position": "Principal Administrative Officer",
+        "name": "Scolastica Nabwire",
+        "email": "s.nabwire@busiacounty.go.ke",
+        "phone": "+254 792 111 008",
+        "level": "Senior Officer"
+      },
+      {
+        "position": "Administrative Officer I",
+        "name": "Mark Ouma",
+        "email": "m.ouma@busiacounty.go.ke",
+        "phone": "+254 792 111 009",
+        "level": "Officer I"
+      },
+      {
+        "position": "Clerical Officer II",
+        "name": "Beatrice Atieno",
+        "email": "b.atieno@busiacounty.go.ke",
+        "phone": "+254 792 111 010",
+        "level": "Junior Officer"
+      }
+    ]
+  },
+  {
+    "id": "finance",
+    "name": "Finance & Economic Planning",
+    "nameKiswahili": "Fedha na Mipango ya Kiuchumi",
+    "icon": "Coins",
+    "cecm": "Hon. Maria Nabwire",
+    "chiefOfficer": "Mr. Allan Omachar",
+    "phone": "+254 792 222 111",
+    "email": "finance@busiacounty.go.ke",
+    "mandate": [
+      "Mobilization of revenue through local revenue streams and national transfers.",
+      "Prudent budget allocation, economic planning, and treasury management.",
+      "Promoting transparency in procurement and compliance with PFMA (Public Finance Management Act) guidelines.",
+      "Monitoring and evaluation of county development projects and budget performance."
+    ],
+    "services": [
+      "Pay Single Business Permits (SBP)",
+      "Land Rates Clearance & Search",
+      "County Tenders & RFQs Submission",
+      "Market Cess & Parking Fee Payment"
+    ],
+    "forms": [
+      {
+        "name": "Busia Finance Act 2025/2026",
+        "file": "busia_finance_act_2025_2026.pdf",
+        "date": "2025-11-30",
+        "type": "PDF (3.1 MB)"
+      },
+      {
+        "name": "County Fiscal Strategy Paper 2026",
+        "file": "county_fiscal_strategy_2026.pdf",
+        "date": "2026-02-28",
+        "type": "PDF (2.4 MB)"
+      },
+      {
+        "name": "Supplier Registration & Access to Government Opportunities (AGPO) Form",
+        "file": "agpo_supplier_reg.pdf",
+        "date": "2026-01-15",
+        "type": "PDF (980 KB)"
+      }
+    ],
+    "staff": [
+      {
+        "position": "County Executive Committee Member (CECM)",
+        "name": "Hon. Maria Nabwire",
+        "email": "m.nabwire@busiacounty.go.ke",
+        "phone": "+254 792 200 001",
+        "level": "CECM"
+      },
+      {
+        "position": "Chief Officer - Finance & Accounting",
+        "name": "Mr. Allan Omachar",
+        "email": "a.omachar@busiacounty.go.ke",
+        "phone": "+254 792 200 002",
+        "level": "Chief Officer"
+      },
+      {
+        "position": "Director of Revenue Administration",
+        "name": "Cleophas Okwaro",
+        "email": "c.okwaro@busiacounty.go.ke",
+        "phone": "+254 792 200 003",
+        "level": "Director"
+      },
+      {
+        "position": "Director of Budget & Policy Formulation",
+        "name": "Lydia Were",
+        "email": "l.were@busiacounty.go.ke",
+        "phone": "+254 792 200 004",
+        "level": "Director"
+      },
+      {
+        "position": "Deputy Director - Supply Chain Management",
+        "name": "Erick Omondi",
+        "email": "e.omondi@busiacounty.go.ke",
+        "phone": "+254 792 200 005",
+        "level": "Deputy Director"
+      },
+      {
+        "position": "Assistant Director - Internal Audit",
+        "name": "Pamela Nafula",
+        "email": "p.nafula@busiacounty.go.ke",
+        "phone": "+254 792 200 006",
+        "level": "Assistant Director"
+      },
+      {
+        "position": "Senior Accountant",
+        "name": "Francis Wandera",
+        "email": "f.wandera@busiacounty.go.ke",
+        "phone": "+254 792 200 007",
+        "level": "Senior Officer"
+      },
+      {
+        "position": "Accountant II",
+        "name": "Silvia Anyango",
+        "email": "s.anyango@busiacounty.go.ke",
+        "phone": "+254 792 200 008",
+        "level": "Officer II"
+      },
+      {
+        "position": "Accounts Assistant III",
+        "name": "Kevin Barasa",
+        "email": "k.barasa@busiacounty.go.ke",
+        "phone": "+254 792 200 009",
+        "level": "Officer III"
+      },
+      {
+        "position": "Revenue Clerical Assistant",
+        "name": "Mildred Achieno",
+        "email": "m.achieno@busiacounty.go.ke",
+        "phone": "+254 792 200 010",
+        "level": "Junior Officer"
+      }
+    ]
+  },
+  {
+    "id": "health",
+    "name": "Health & Sanitation",
+    "nameKiswahili": "Afya na Usafi wa Mazingira",
+    "icon": "HeartPulse",
+    "cecm": "Dr. Beatrice Nakholi",
+    "chiefOfficer": "Dr. Emmanuel Luvai",
+    "phone": "+254 792 333 222",
+    "email": "health@busiacounty.go.ke",
+    "mandate": [
+      "Providing accessible, affordable, and high-quality preventive, promotive, and curative health services.",
+      "Upgrading county health infrastructure and staffing at Referral Hospitals, Level 4 & 3 health centers.",
+      "Procurement and distribution of medical products, pharmaceuticals, and non-pharmaceutical supplies.",
+      "Enforcing environmental health standards, sanitation regulations, and waste disposal systems."
+    ],
+    "services": [
+      "Public Health License (Health Certificate)",
+      "Food Handler Examination & Certification",
+      "County Clinical Services Access (Emergency & Outpatient)",
+      "NHIF / SHA Community Registration Assistance"
+    ],
+    "forms": [
+      {
+        "name": "Public Health License Application Form 1A",
+        "file": "public_health_license_app.pdf",
+        "date": "2026-03-01",
+        "type": "PDF (540 KB)"
+      },
+      {
+        "name": "Food Handler Medical Certificate Outline",
+        "file": "food_handler_check.pdf",
+        "date": "2026-01-20",
+        "type": "PDF (420 KB)"
+      },
+      {
+        "name": "County Sanitation & Cleanliness Standards Guidelines",
+        "file": "sanitation_standards_2026.pdf",
+        "date": "2026-04-12",
+        "type": "PDF (2.1 MB)"
+      }
+    ],
+    "staff": [
+      {
+        "position": "County Executive Committee Member (CECM)",
+        "name": "Dr. Beatrice Nakholi",
+        "email": "b.nakholi@busiacounty.go.ke",
+        "phone": "+254 792 300 001",
+        "level": "CECM"
+      },
+      {
+        "position": "Chief Officer - Health Services",
+        "name": "Dr. Emmanuel Luvai",
+        "email": "e.luvai@busiacounty.go.ke",
+        "phone": "+254 792 300 002",
+        "level": "Chief Officer"
+      },
+      {
+        "position": "Director of Medical Services",
+        "name": "Dr. Wilberforce Lusamba",
+        "email": "w.lusamba@busiacounty.go.ke",
+        "phone": "+254 792 300 003",
+        "level": "Director"
+      },
+      {
+        "position": "Director of Public Health",
+        "name": "Meltus Kabole",
+        "email": "m.kabole@busiacounty.go.ke",
+        "phone": "+254 792 300 004",
+        "level": "Director"
+      },
+      {
+        "position": "Deputy Director - Pharmacy & Medical Supplies",
+        "name": "Dr. Cynthia Ochieng",
+        "email": "c.ochieng@busiacounty.go.ke",
+        "phone": "+254 792 300 005",
+        "level": "Deputy Director"
+      },
+      {
+        "position": "Assistant Director of Nursing Services",
+        "name": "Gladys Nekesa",
+        "email": "g.nekesa@busiacounty.go.ke",
+        "phone": "+254 792 300 006",
+        "level": "Assistant Director"
+      },
+      {
+        "position": "Senior Public Health Officer",
+        "name": "Justus Wekesa",
+        "email": "j.wekesa@busiacounty.go.ke",
+        "phone": "+254 792 300 007",
+        "level": "Senior Officer"
+      },
+      {
+        "position": "Clinical Officer I",
+        "name": "Mercyline Ambani",
+        "email": "m.ambani@busiacounty.go.ke",
+        "phone": "+254 792 300 008",
+        "level": "Officer I"
+      },
+      {
+        "position": "Community Health Assistant III",
+        "name": "Philip Odhiambo",
+        "email": "p.odhiambo@busiacounty.go.ke",
+        "phone": "+254 792 300 009",
+        "level": "Officer III"
+      },
+      {
+        "position": "Records Clerical Assistant",
+        "name": "Faith Kwamboka",
+        "email": "f.kwamboka@busiacounty.go.ke",
+        "phone": "+254 792 300 010",
+        "level": "Junior Officer"
+      }
+    ]
+  },
+  {
+    "id": "agriculture",
+    "name": "Agriculture, Livestock & Fisheries",
+    "nameKiswahili": "Kilimo, Mifugo na Uvuvi",
+    "icon": "Sprout",
+    "cecm": "Hon. Symplicius Mukok",
+    "chiefOfficer": "Dr. Timothy Odende",
+    "phone": "+254 792 444 333",
+    "email": "agriculture@busiacounty.go.ke",
+    "mandate": [
+      "Promoting modern farming practices, food productivity, and extension services.",
+      "Enhancing livestock husbandry, disease controls, and cooperative dairy value chains.",
+      "Developing sustainable capture fisheries and aquaculture (especially along Lake Victoria borders).",
+      "Ensuring county agricultural mechanization services, subsidized seed, and soil health advice."
+    ],
+    "services": [
+      "Subsidized Fertilizer & Seed Distribution Request",
+      "Livestock Vaccination & Veterinary Services",
+      "Fish Certification & Port Access Permits",
+      "Agricultural Extension & Field Training Sessions"
+    ],
+    "forms": [
+      {
+        "name": "Subsidized Farm Inputs Form 2026",
+        "file": "farm_inputs_request.pdf",
+        "date": "2026-02-15",
+        "type": "PDF (500 KB)"
+      },
+      {
+        "name": "Fish Transport & Health Certificate Form B",
+        "file": "fish_transport_permit.pdf",
+        "date": "2026-03-25",
+        "type": "PDF (450 KB)"
+      },
+      {
+        "name": "Livestock Movement Permit application",
+        "file": "livestock_movement_permit.pdf",
+        "date": "2026-05-02",
+        "type": "PDF (310 KB)"
+      }
+    ],
+    "staff": [
+      {
+        "position": "County Executive Committee Member (CECM)",
+        "name": "Hon. Symplicius Mukok",
+        "email": "s.mukok@busiacounty.go.ke",
+        "phone": "+254 792 400 001",
+        "level": "CECM"
+      },
+      {
+        "position": "Chief Officer - Agriculture & Fisheries",
+        "name": "Dr. Timothy Odende",
+        "email": "t.odende@busiacounty.go.ke",
+        "phone": "+254 792 400 002",
+        "level": "Chief Officer"
+      },
+      {
+        "position": "Director of Agriculture & Crop Production",
+        "name": "Johnstone Kirui",
+        "email": "j.kirui@busiacounty.go.ke",
+        "phone": "+254 792 400 003",
+        "level": "Director"
+      },
+      {
+        "position": "Director of Fisheries Management",
+        "name": "Everlyne Wanyama",
+        "email": "e.wanyama@busiacounty.go.ke",
+        "phone": "+254 792 400 004",
+        "level": "Director"
+      },
+      {
+        "position": "Deputy Director - Veterinary Services",
+        "name": "Dr. Collins Mukhwana",
+        "email": "c.mukhwana@busiacounty.go.ke",
+        "phone": "+254 792 400 005",
+        "level": "Deputy Director"
+      },
+      {
+        "position": "Assistant Director - Cooperative Extension",
+        "name": "Eunice Atieno",
+        "email": "e.atieno@busiacounty.go.ke",
+        "phone": "+254 792 400 006",
+        "level": "Assistant Director"
+      },
+      {
+        "position": "Senior Agricultural Officer",
+        "name": "Dennis Wandera",
+        "email": "d.wandera@busiacounty.go.ke",
+        "phone": "+254 792 400 007",
+        "level": "Senior Officer"
+      },
+      {
+        "position": "Livestock Officer I",
+        "name": "Grace Nasimiyu",
+        "email": "g.nasimiyu@busiacounty.go.ke",
+        "phone": "+254 792 400 008",
+        "level": "Officer I"
+      },
+      {
+        "position": "Fisheries Inspector II",
+        "name": "Patrick Juma",
+        "email": "p.juma@busiacounty.go.ke",
+        "phone": "+254 792 400 009",
+        "level": "Officer II"
+      },
+      {
+        "position": "Agricultural Field Assistant III",
+        "name": "Benson Okoth",
+        "email": "b.okoth@busiacounty.go.ke",
+        "phone": "+254 792 400 010",
+        "level": "Officer III"
+      }
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education, Youth, Sports & Social Services",
+    "nameKiswahili": "Elimu, Vijana, Michezo na Huduma za Jamii",
+    "icon": "GraduationCap",
+    "cecm": "Hon. Pamela Awori",
+    "chiefOfficer": "Mr. Daniel Mogaka",
+    "phone": "+254 792 555 444",
+    "email": "education@busiacounty.go.ke",
+    "mandate": [
+      "Overseeing Early Childhood Development Education (ECDE) centers and nutrition programs.",
+      "Promoting Youth Polytechnic training, vocational centers, and technical trades.",
+      "Coordinating talent incubation, county sports infrastructure, and tournaments.",
+      "Implementing social safety programs for women, older citizens, and Persons with Disabilities (PWDs)."
+    ],
+    "services": [
+      "County Bursary Scheme Registration",
+      "Vocational Training Center (VTC) Registration",
+      "County Youth & Sports Development Funds Registration",
+      "PWD Assistance & Representation Request"
+    ],
+    "forms": [
+      {
+        "name": "Busia County Bursary Allocation Request Form 2026",
+        "file": "bursary_application_2026.pdf",
+        "date": "2026-04-01",
+        "type": "PDF (600 KB)"
+      },
+      {
+        "name": "Vocational Training Admission Syllabus & Form",
+        "file": "vtc_admission_form.pdf",
+        "date": "2025-12-10",
+        "type": "PDF (780 KB)"
+      },
+      {
+        "name": "PWD Economic Group Enterprise Grant Form",
+        "file": "pwd_grant_form.pdf",
+        "date": "2026-05-10",
+        "type": "PDF (510 KB)"
+      }
+    ],
+    "staff": [
+      {
+        "position": "County Executive Committee Member (CECM)",
+        "name": "Hon. Pamela Awori",
+        "email": "p.awori@busiacounty.go.ke",
+        "phone": "+254 792 500 001",
+        "level": "CECM"
+      },
+      {
+        "position": "Chief Officer - Education & Social Services",
+        "name": "Mr. Daniel Mogaka",
+        "email": "d.mogaka@busiacounty.go.ke",
+        "phone": "+254 792 500 002",
+        "level": "Chief Officer"
+      },
+      {
+        "position": "Director of ECDE Administration",
+        "name": "Athanas Manyala",
+        "email": "a.manyala@busiacounty.go.ke",
+        "phone": "+254 792 500 003",
+        "level": "Director"
+      },
+      {
+        "position": "Director of Sports & Youth Empowerment",
+        "name": "Daniel Anyangu",
+        "email": "d.anyangu@busiacounty.go.ke",
+        "phone": "+254 792 500 004",
+        "level": "Director"
+      },
+      {
+        "position": "Deputy Director - Vocational Training Centers",
+        "name": "Jackline Mukhwana",
+        "email": "j.mukhwana@busiacounty.go.ke",
+        "phone": "+254 792 500 005",
+        "level": "Deputy Director"
+      },
+      {
+        "position": "Assistant Director - Social Safeguards & Gender",
+        "name": "Rosemary Nekesa",
+        "email": "r.nekesa@busiacounty.go.ke",
+        "phone": "+254 792 500 006",
+        "level": "Assistant Director"
+      },
+      {
+        "position": "Senior Quality Assurance Officer (ECDE)",
+        "name": "Ferdinand Wafula",
+        "email": "f.wafula@busiacounty.go.ke",
+        "phone": "+254 792 500 007",
+        "level": "Senior Officer"
+      },
+      {
+        "position": "Vocational Instructor I",
+        "name": "Silas Ooko",
+        "email": "s.ooko@busiacounty.go.ke",
+        "phone": "+254 792 500 008",
+        "level": "Officer I"
+      },
+      {
+        "position": "Social Welfare Officer II",
+        "name": "Beatrice Atieno",
+        "email": "b.atieno@busiacounty.go.ke",
+        "phone": "+254 792 500 009",
+        "level": "Officer II"
+      },
+      {
+        "position": "Education Administrative Assistant",
+        "name": "Kennedy Teso",
+        "email": "k.teso@busiacounty.go.ke",
+        "phone": "+254 792 500 010",
+        "level": "Junior Officer"
+      }
+    ]
+  },
+  {
+    "id": "lands",
+    "name": "Lands, Housing & Urban Development",
+    "nameKiswahili": "Ardhi, Nyumba na Maendeleo ya Mijini",
+    "icon": "MapPin",
+    "cecm": "Hon. Peter Odima",
+    "chiefOfficer": "Teresia Mbingi",
+    "phone": "+254 792 666 555",
+    "email": "lands@busiacounty.go.ke",
+    "mandate": [
+      "Physical planning, zoning, spatial mapping, and county urban renewal schemes.",
+      "Facilitating title deed processes, county boundary coordination, and survey surveys.",
+      "Management of county housing reserves, affordable housing projects, and physical infrastructure leases.",
+      "Coordinating development plans for Busia and Malaba municipalities."
+    ],
+    "services": [
+      "Building Proposal & Plan Approvals",
+      "Land Survey & Border Dispute Amicable Arbitrations",
+      "County Housing Lease Applications",
+      "Change & Extension of Land Use Registration"
+    ],
+    "forms": [
+      {
+        "name": "Building Plan Approval Application (Form PPA 1)",
+        "file": "ppa_1_building_approval.pdf",
+        "date": "2026-03-10",
+        "type": "PDF (1.1 MB)"
+      },
+      {
+        "name": "Application for Lease of County Properties",
+        "file": "county_lease_app.pdf",
+        "date": "2026-01-05",
+        "type": "PDF (670 KB)"
+      },
+      {
+        "name": "Official Title Deed Survey Requisition",
+        "file": "survey_request_form.pdf",
+        "date": "2026-05-20",
+        "type": "PDF (520 KB)"
+      }
+    ],
+    "staff": [
+      {
+        "position": "County Executive Committee Member (CECM)",
+        "name": "Hon. Peter Odima",
+        "email": "p.odima@busiacounty.go.ke",
+        "phone": "+254 792 600 001",
+        "level": "CECM"
+      },
+      {
+        "position": "Chief Officer - Lands & Physical Planning",
+        "name": "Teresia Mbingi",
+        "email": "t.mbingi@busiacounty.go.ke",
+        "phone": "+254 792 600 002",
+        "level": "Chief Officer"
+      },
+      {
+        "position": "Director of Physical Planning & GIS Services",
+        "name": "Maurice Oduor",
+        "email": "m.oduor@busiacounty.go.ke",
+        "phone": "+254 792 600 003",
+        "level": "Director"
+      },
+      {
+        "position": "Director of Land Administration & Survey",
+        "name": "Stephen Barasa",
+        "email": "s.barasa@busiacounty.go.ke",
+        "phone": "+254 792 600 004",
+        "level": "Director"
+      },
+      {
+        "position": "Deputy Director - Housing Operations",
+        "name": "Nelly Nekesa",
+        "email": "n.nekesa@busiacounty.go.ke",
+        "phone": "+254 792 600 005",
+        "level": "Deputy Director"
+      },
+      {
+        "position": "Assistant Director - Survey Administration",
+        "name": "David Wafula",
+        "email": "d.wafula@busiacounty.go.ke",
+        "phone": "+254 792 600 006",
+        "level": "Assistant Director"
+      },
+      {
+        "position": "Senior Land Surveyor",
+        "name": "Albert Nyongesa",
+        "email": "a.nyongesa@busiacounty.go.ke",
+        "phone": "+254 792 600 007",
+        "level": "Senior Officer"
+      },
+      {
+        "position": "Physical Planner I",
+        "name": "Esther Auma",
+        "email": "e.auma@busiacounty.go.ke",
+        "phone": "+254 792 600 008",
+        "level": "Officer I"
+      },
+      {
+        "position": "Housing Officer II",
+        "name": "John Juma",
+        "email": "j.juma@busiacounty.go.ke",
+        "phone": "+254 792 600 009",
+        "level": "Officer II"
+      },
+      {
+        "position": "Zoning Clerical Representative",
+        "name": "Agnes Nafula",
+        "email": "a.nafula@busiacounty.go.ke",
+        "phone": "+254 792 600 010",
+        "level": "Junior Officer"
+      }
+    ]
+  },
+  {
+    "id": "roads",
+    "name": "Roads, Public Works & Transport",
+    "nameKiswahili": "Barabara, Kazi za Umma na Usafiri",
+    "icon": "Hammer",
+    "cecm": "Hon. Andrew Nakitari",
+    "chiefOfficer": "Eng. Cyprian Ouma",
+    "phone": "+254 792 777 666",
+    "email": "roadsandpw@busiacounty.go.ke",
+    "mandate": [
+      "Construction, grading, and improvement of county Class D & rural access roads.",
+      "Design, maintenance, and structural inspection of county bridges and physical buildings.",
+      "Supervising electrical works and solar streetlights across business trading hubs.",
+      "Management of County public transportation hubs, parking bays, and traffic safety networks."
+    ],
+    "services": [
+      "Report Road Structural Failure / Potholes",
+      "County Asset Hire (Graders, Bulldozers)",
+      "Boda Boda & Matatu Stage Operators Permit",
+      "Structure Electrical Inspection Clearance"
+    ],
+    "forms": [
+      {
+        "name": "Heavy Machinery Asset Hire Form A",
+        "file": "machinery_hire_form.pdf",
+        "date": "2026-03-01",
+        "type": "PDF (450 KB)"
+      },
+      {
+        "name": "Matatu/Bus Park Allocation Operators Request",
+        "file": "public_parking_stage_app.pdf",
+        "date": "2026-01-11",
+        "type": "PDF (560 KB)"
+      },
+      {
+        "name": "County Structural Inspection Requisition Guide",
+        "file": "structural_inspection_req.pdf",
+        "date": "2026-04-18",
+        "type": "PDF (1.3 MB)"
+      }
+    ],
+    "staff": [
+      {
+        "position": "County Executive Committee Member (CECM)",
+        "name": "Hon. Andrew Nakitari",
+        "email": "a.nakitari@busiacounty.go.ke",
+        "phone": "+254 792 700 001",
+        "level": "CECM"
+      },
+      {
+        "position": "Chief Officer - Infrastructure & Roads",
+        "name": "Eng. Cyprian Ouma",
+        "email": "c.ouma@busiacounty.go.ke",
+        "phone": "+254 792 700 002",
+        "level": "Chief Officer"
+      },
+      {
+        "position": "Director of Roads Construction",
+        "name": "Eng. George Wafula",
+        "email": "g.wafula@busiacounty.go.ke",
+        "phone": "+254 792 700 003",
+        "level": "Director"
+      },
+      {
+        "position": "Director of Public Works & Inspection",
+        "name": "Arch. Fredrick Onyango",
+        "email": "f.onyango@busiacounty.go.ke",
+        "phone": "+254 792 700 004",
+        "level": "Director"
+      },
+      {
+        "position": "Deputy Director - Transport Management",
+        "name": "Silvia Nasimiyu",
+        "email": "s.nasimiyu@busiacounty.go.ke",
+        "phone": "+254 792 700 005",
+        "level": "Deputy Director"
+      },
+      {
+        "position": "Assistant Director - Electrical & Street Lighting",
+        "name": "Charles Juma",
+        "email": "c.juma@busiacounty.go.ke",
+        "phone": "+254 792 700 006",
+        "level": "Assistant Director"
+      },
+      {
+        "position": "Senior Structural Engineer",
+        "name": "Moses Okelo",
+        "email": "m.okelo@busiacounty.go.ke",
+        "phone": "+254 792 700 007",
+        "level": "Senior Officer"
+      },
+      {
+        "position": "Inspector of Works I",
+        "name": "Everline Atieno",
+        "email": "e.atieno@busiacounty.go.ke",
+        "phone": "+254 792 700 008",
+        "level": "Officer I"
+      },
+      {
+        "position": "Road Maintenance Surveyor II",
+        "name": "Joseph Barasa",
+        "email": "j.barasa@busiacounty.go.ke",
+        "phone": "+254 792 700 009",
+        "level": "Officer II"
+      },
+      {
+        "position": "Transport Registry Assistant",
+        "name": "Mercyline Amboko",
+        "email": "m.amboko@busiacounty.go.ke",
+        "phone": "+254 792 700 010",
+        "level": "Junior Officer"
+      }
+    ]
+  },
+  {
+    "id": "water",
+    "name": "Water, Environment, Natural Resources & Climate Change",
+    "nameKiswahili": "Maji, Mazingira, Rasilimali za Kiasilia na Mabadiliko ya Tabianchi",
+    "icon": "Droplet",
+    "cecm": "Hon. Isaac Alukwe",
+    "chiefOfficer": "Helen Mukanda",
+    "phone": "+254 792 888 777",
+    "email": "waterandenv@busiacounty.go.ke",
+    "mandate": [
+      "Borehole drilling, solar water system distribution, and piped clean water supply coverage.",
+      "Conservation of forests, riparian preservation along the Lake, and garbage management systems.",
+      "Regulating sustainable sand harvesting, brick manufacturing, and stone quarrying natural assets.",
+      "Developing community climate adaptation plans and coordinating the FLLoCA funding program."
+    ],
+    "services": [
+      "Water Supply Connection Application",
+      "Environmental Impact Assessment (EIA) Review",
+      "County Greening Initiative Tree Seedling Request",
+      "Sand Harvesting & Quarry Extraction License"
+    ],
+    "forms": [
+      {
+        "name": "Water Connection Registration Request Form",
+        "file": "water_connection_form.pdf",
+        "date": "2026-02-18",
+        "type": "PDF (480 KB)"
+      },
+      {
+        "name": "Sub-county Local Greening Free Seedlings Request",
+        "file": "tree_seedling_requisition.pdf",
+        "date": "2026-03-30",
+        "type": "PDF (310 KB)"
+      },
+      {
+        "name": "Climate Change Community Resilience Grant Form",
+        "file": "climate_flloca_resilience_grant.pdf",
+        "date": "2026-05-15",
+        "type": "PDF (1.2 MB)"
+      }
+    ],
+    "staff": [
+      {
+        "position": "County Executive Committee Member (CECM)",
+        "name": "Hon. Isaac Alukwe",
+        "email": "i.alukwe@busiacounty.go.ke",
+        "phone": "+254 792 800 001",
+        "level": "CECM"
+      },
+      {
+        "position": "Chief Officer - Water, Environment & Climate",
+        "name": "Helen Mukanda",
+        "email": "h.mukanda@busiacounty.go.ke",
+        "phone": "+254 792 800 002",
+        "level": "Chief Officer"
+      },
+      {
+        "position": "Director of Water Services",
+        "name": "Eng. Patrick Makokha",
+        "email": "p.makokha@busiacounty.go.ke",
+        "phone": "+254 792 800 003",
+        "level": "Director"
+      },
+      {
+        "position": "Director of Environment & Forestry",
+        "name": "Sussy Nabwire",
+        "email": "s.nabwire@busiacounty.go.ke",
+        "phone": "+254 792 800 004",
+        "level": "Director"
+      },
+      {
+        "position": "Deputy Director - Climate Change Unit",
+        "name": "Paul Nyongesa",
+        "email": "p.nyongesa@busiacounty.go.ke",
+        "phone": "+254 792 800 005",
+        "level": "Deputy Director"
+      },
+      {
+        "position": "Assistant Director - Environment & Waste Management",
+        "name": "Jane Were",
+        "email": "j.were@busiacounty.go.ke",
+        "phone": "+254 792 800 006",
+        "level": "Assistant Director"
+      },
+      {
+        "position": "Senior Water Engineer",
+        "name": "Gregory Ouko",
+        "email": "g.ouko@busiacounty.go.ke",
+        "phone": "+254 792 800 007",
+        "level": "Senior Officer"
+      },
+      {
+        "position": "Environmental Hydrologist I",
+        "name": "Phanice Nekesa",
+        "email": "p.nekesa@busiacounty.go.ke",
+        "phone": "+254 792 800 008",
+        "level": "Officer I"
+      },
+      {
+        "position": "Tree Nursery Supervisor II",
+        "name": "Peter Juma",
+        "email": "p.juma@busiacounty.go.ke",
+        "phone": "+254 792 800 009",
+        "level": "Officer II"
+      },
+      {
+        "position": "Waste Collection Clerk III",
+        "name": "Lilian Atieno",
+        "email": "l.atieno@busiacounty.go.ke",
+        "phone": "+254 792 800 010",
+        "level": "Junior Officer"
+      }
+    ]
+  },
+  {
+    "id": "trade",
+    "name": "Trade, Tourism, Industry & Co-operatives",
+    "nameKiswahili": "Biashara, Utalii, Viwanda na Ushirika",
+    "icon": "Briefcase",
+    "cecm": "Hon. Olakachuna Omuse",
+    "chiefOfficer": "Erick Anyango",
+    "phone": "+254 792 999 888",
+    "email": "tradeandtourism@busiacounty.go.ke",
+    "mandate": [
+      "Promoting domestic trade, wholesale markets, retail licensing, and cross-border trade facilitation.",
+      "Sponsoring cooperative development, auditing SACCO registers, and funding cooperative structures.",
+      "Developing County tourist locations (e.g., Kakapel Cultural Site, Lake Victoria islands, Samia Hills).",
+      "Coordinating industrial investment zones, SME growth, and weight-and-measure calibrations."
+    ],
+    "services": [
+      "Weights & Measures Equipment Verification",
+      "Co-operative Society Registration Audit Assist",
+      "Trade Joint Loan Board Enterprise Funding",
+      "Tourism Site Licensing & Events Clearance"
+    ],
+    "forms": [
+      {
+        "name": "SME Joint Loan Enterprise Fund Form 4",
+        "file": "joint_loan_sme_fund.pdf",
+        "date": "2026-03-01",
+        "type": "PDF (600 KB)"
+      },
+      {
+        "name": "Co-operative Society Model Bylaws Outline",
+        "file": "cooperative_bylaws.pdf",
+        "date": "2026-01-20",
+        "type": "PDF (1.1 MB)"
+      },
+      {
+        "name": "Weights & Measures Calibration Requisition Form",
+        "file": "weights_calibration_req.pdf",
+        "date": "2026-04-05",
+        "type": "PDF (290 KB)"
+      }
+    ],
+    "staff": [
+      {
+        "position": "County Executive Committee Member (CECM)",
+        "name": "Hon. Olakachuna Omuse",
+        "email": "o.omuse@busiacounty.go.ke",
+        "phone": "+254 792 900 001",
+        "level": "CECM"
+      },
+      {
+        "position": "Chief Officer - Trade & Co-operatives",
+        "name": "Erick Anyango",
+        "email": "e.anyango@busiacounty.go.ke",
+        "phone": "+254 792 900 002",
+        "level": "Chief Officer"
+      },
+      {
+        "position": "Director of Co-operative Development",
+        "name": "George Wafula",
+        "email": "g.wafula2@busiacounty.go.ke",
+        "phone": "+254 792 900 003",
+        "level": "Director"
+      },
+      {
+        "position": "Director of Trade & Enterprise",
+        "name": "Naomi Nakhanu",
+        "email": "n.nakhanu@busiacounty.go.ke",
+        "phone": "+254 792 900 004",
+        "level": "Director"
+      },
+      {
+        "position": "Deputy Director - Tourism Promotions",
+        "name": "Amos Were",
+        "email": "a.were@busiacounty.go.ke",
+        "phone": "+254 792 900 005",
+        "level": "Deputy Director"
+      },
+      {
+        "position": "Assistant Director - Weights & Measures",
+        "name": "Silas Juma",
+        "email": "s.juma@busiacounty.go.ke",
+        "phone": "+254 792 900 006",
+        "level": "Assistant Director"
+      },
+      {
+        "position": "Senior Co-operative Auditor",
+        "name": "Francis Ouma",
+        "email": "f.ouma2@busiacounty.go.ke",
+        "phone": "+254 792 900 007",
+        "level": "Senior Officer"
+      },
+      {
+        "position": "Trade Development Officer I",
+        "name": "Winnie Atieno",
+        "email": "w.atieno@busiacounty.go.ke",
+        "phone": "+254 792 900 008",
+        "level": "Officer I"
+      },
+      {
+        "position": "Weights Inspector II",
+        "name": "Robert Teso",
+        "email": "r.teso@busiacounty.go.ke",
+        "phone": "+254 792 900 009",
+        "level": "Officer II"
+      },
+      {
+        "position": "Tourism Tour Guide Assistant III",
+        "name": "Mildred Achieno",
+        "email": "m.achieno2@busiacounty.go.ke",
+        "phone": "+254 792 900 010",
+        "level": "Junior Officer"
+      }
+    ]
+  },
+  {
+    "id": "publicservice",
+    "name": "Public Service, Administration & Devolution",
+    "nameKiswahili": "Huduma ya Umma, Utawala na Ugatuzi",
+    "icon": "Users",
+    "cecm": "Hon. John Manyala",
+    "chiefOfficer": "Mr. Clement Ocholla",
+    "phone": "+254 792 000 999",
+    "email": "publicservice@busiacounty.go.ke",
+    "mandate": [
+      "Coordinating county public service personnel, human resource development, and staff motivation.",
+      "Deconvolving administration down to sub-counties, wards, and village administration councils.",
+      "Ensuring performance contracting compliance, civil service standards, and public records administration.",
+      "Facilitating public participation forums and ensuring compliance with national guidelines."
+    ],
+    "services": [
+      "County Vacancy Applications & Status Checks",
+      "Public Participation Forums Notification Subscribe",
+      "Ward / Sub-county Office Services Directory",
+      "Civil Service Retrospective Claims Forms"
+    ],
+    "forms": [
+      {
+        "name": "County Job Application Standard Form PSC 2",
+        "file": "job_application_psc2_form.pdf",
+        "date": "2026-02-10",
+        "type": "PDF (840 KB)"
+      },
+      {
+        "name": "Public Participation Presentation Submission",
+        "file": "public_participation_sub.pdf",
+        "date": "2026-03-22",
+        "type": "PDF (510 KB)"
+      },
+      {
+        "name": "County Grievance File Lodgment Template",
+        "file": "grievance_lodgement_form.pdf",
+        "date": "2026-05-01",
+        "type": "PDF (420 KB)"
+      }
+    ],
+    "staff": [
+      {
+        "position": "County Executive Committee Member (CECM)",
+        "name": "Hon. John Manyala",
+        "email": "j.manyala@busiacounty.go.ke",
+        "phone": "+254 792 010 001",
+        "level": "CECM"
+      },
+      {
+        "position": "Chief Officer - Devolution & Administration",
+        "name": "Mr. Clement Ocholla",
+        "email": "c.ocholla@busiacounty.go.ke",
+        "phone": "+254 792 010 002",
+        "level": "Chief Officer"
+      },
+      {
+        "position": "Director of Human Resource Management",
+        "name": "Amina Nabwire2",
+        "email": "a.nabwire2@busiacounty.go.ke",
+        "phone": "+254 792 010 003",
+        "level": "Director"
+      },
+      {
+        "position": "Director of Devolution & Coordination",
+        "name": "Joseph Barasa2",
+        "email": "j.barasa2@busiacounty.go.ke",
+        "phone": "+254 792 010 004",
+        "level": "Director"
+      },
+      {
+        "position": "Deputy Director - Performance Contracting",
+        "name": "Florence Atieno",
+        "email": "f.atieno@busiacounty.go.ke",
+        "phone": "+254 792 010 005",
+        "level": "Deputy Director"
+      },
+      {
+        "position": "Assistant Director - Public Participation",
+        "name": "Cyrus Juma",
+        "email": "c.juma@busiacounty.go.ke",
+        "phone": "+254 792 010 006",
+        "level": "Assistant Director"
+      },
+      {
+        "position": "Senior HR Officer",
+        "name": "Grace Nasimiyu2",
+        "email": "g.nasimiyu2@busiacounty.go.ke",
+        "phone": "+254 792 010 007",
+        "level": "Senior Officer"
+      },
+      {
+        "position": "Sub-County Administrator (Matayos)",
+        "name": "Arthur Ouma",
+        "email": "a.ouma2@busiacounty.go.ke",
+        "phone": "+254 792 010 008",
+        "level": "Officer I"
+      },
+      {
+        "position": "Ward Administrator II (Nambale Central)",
+        "name": "Dennis Juma",
+        "email": "d.juma@busiacounty.go.ke",
+        "phone": "+254 792 010 009",
+        "level": "Officer II"
+      },
+      {
+        "position": "Public Records Clerical Assistant",
+        "name": "Rose Nabwire",
+        "email": "r.nabwire@busiacounty.go.ke",
+        "phone": "+254 792 010 010",
+        "level": "Junior Officer"
+      }
+    ]
+  }
+]

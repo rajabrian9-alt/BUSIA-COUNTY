@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Poppins", "Roboto", ui-sans-serif, system-ui, sans-serif;
+  --font-roboto: "Roboto", sans-serif;
+  
+  /* Additional County Government brand color variables */
+  --color-kenya-red: #BB0000;
+  --color-kenya-green: #006600;
+  --color-kenya-black: #000000;
+  --color-busia-gold: #D4AF37;
+}
+
+/* Custom Scrollbar and Base Utilities */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}

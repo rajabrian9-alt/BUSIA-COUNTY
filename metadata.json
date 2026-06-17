@@ -1,0 +1,6 @@
+{
+  "name": "County Government of Busia",
+  "description": "Official Web Portal of the County Government of Busia, Kenya. Delivering accessible e-services, transparent leadership structures, procurement listings, and citizen feedback portals to the people of Busia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
